@@ -1,0 +1,11 @@
+state: enabled
+email: kristyaqilove6@gmail.com
+fullname: 'Kristy Daniela Mina Cortez '
+title: 'Graficacion y Animación '
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$ldxhsgbYvvMwEJqPh3W3pO1ELRD/eNQE9UA8qarGYoys/gX33P8jK
